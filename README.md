@@ -4,9 +4,7 @@ Simple Go client for ToyyibPay API.
 
 ## Installation
 
-go get github.com/saiaapiz/toyyibpayapi
-
-(Replace `github.com/saiaapiz/toyyibpayapi` with the module path where you publish this package.)
+`go get github.com/saiaapiz/toyyibpayapi`
 
 ## Usage
 
