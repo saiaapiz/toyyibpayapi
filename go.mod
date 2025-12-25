@@ -1,4 +1,4 @@
-module toyyibpayapi
+module github.com/saiaapiz/toyyibpayapi
 
 go 1.25.5
 
